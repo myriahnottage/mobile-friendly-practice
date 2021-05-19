@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+.header {
+    background-image: linear-gradient(#55d3fb, #11353c);
+}
+
+.header-text {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
