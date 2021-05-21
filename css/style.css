@@ -42,3 +42,21 @@ p {
     background-color: #061d24;
     min-height: 10%;
 }
+
+@media screen and (min-width: 480px) {
+    .header {
+        background-image: linear-gradient(#ff99cc, #33001a);
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .header {
+        background-image: linear-gradient(#9999ff, #000033);
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .header {
+        background-image: linear-gradient(#ffcc99, #331a00);
+    }
+}
